@@ -1,7 +1,11 @@
 # practica_github
 Clase 12 EGG Github-2
 <<<<<<< HEAD
+<<<<<<< HEAD
 Leonel Grandoli, WespedUnion para los panas
+=======
+Hola soy Edu! =D
+>>>>>>> 4d2b904e3add085c5e89c1ab72fed254b3f456d5
 =======
 
 NICOLAS
