@@ -2,7 +2,11 @@
 Clase 12 EGG Github-2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 brenda 22222
+=======
+Mariano Castillo
+>>>>>>> f227b33635a5ca02e0b4e2ce1a02f5d96092e67b
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
